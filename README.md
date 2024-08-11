@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is DWI NUR CAHYA <br>I'm a Newbie Programmer</h2>
+<h1 align="center">Hi 👋! My name is DWI NUR CAHYA <br>I'm a Newbie Programmer</h1>
 
 ###
 
@@ -13,7 +13,7 @@
 
 <br clear="both">
 
-<h3 align="left">MY SKILLS</h3>
+<h2 align="left">MY SKILLS</h2>
 
 ###
 
@@ -45,7 +45,7 @@
 
 <br clear="both">
 
-<h3 align="left">CONTACT ME</h3>
+<h2 align="left">CONTACT ME</h2>
 
 ###
 
@@ -80,13 +80,7 @@
 
 <br clear="both">
 
-<h3 align="left">Favorite Anime</h3>
-
-###
-
-<br clear="both">
-
-<img align="right" height="10" src="https://i.pinimg.com/originals/91/ea/dd/91eadd0f3668da5d416bf84179cee2e7.gif"  />
+<h2 align="left">Favorite Anime</h2>
 
 ###
 
