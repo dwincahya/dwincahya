@@ -100,19 +100,19 @@
 
 ###
 
-<img align="left" height="100" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="left" height="100" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB1yWWQWFOo6xv2-yOQPOxbAB9-mt7W2eAmg&s"  />
 
 ###
 
-<img align="left" height="100" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="left" height="100" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5q1svwnrufrIZ6t3ywYa4Ynyv3zIYKzHBFA&s"  />
 
 ###
 
-<img align="left" height="100" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="left" height="100" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwQaMI8KeJQpfu6OPxNBTC0w7Q_qtoIHN6oA&s"  />
 
 ###
 
-<img align="left" height="100" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="left" height="100" src="https://64.media.tumblr.com/a6aa4ff1c3dc9f8df55dfa1991a50755/100e67183470f7ae-5e/s400x600/0b55f1ec3d2922bbc6b569074103e3bedbc490f0.jpg"  />
 
 ###
 
@@ -123,9 +123,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dwincahya&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&order=2" height="180" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dwincahya&radius=16&theme=github-dark&area=false&order=5&hide_title=false&hide_border=true" height="300" alt="activity-graph graph"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/dwincahya/dwincahya/output/github-user-contribution.svg" alt="Snake animation" />
 
 ###
