@@ -126,6 +126,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/dwincahya/dwincahya/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/dwincahya/dwincahya/output/github-user-contribution.svg" alt="Snake animation" />
 
 ###
