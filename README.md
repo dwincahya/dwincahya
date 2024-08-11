@@ -104,30 +104,14 @@
 
 ###
 
-<img align="left" height="150" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5LS2StVcS18TjoMc1v5EwOuSLejUkgd1YLw&s"  />
+<img align="left" height="150" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTunoY4pVfbLEhpkcZlF2xngCdyVq_EUBnzKA&s"  />
 
 ###
 
-<img align="left" height="150" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT9WCM8ELiW3tQl0e1MuEXKU5Iri8HU3Oq5w&s"  />
-
-###
-
-<img align="left" height="150" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxo73UhLTxgKNtmJ9Zwl_A9WqnBPZli3EMcw&s"  />
+<img align="left" height="150" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRtEVTx8vi6XZhEMOJfoNOyFAqRXyHETc4ccuMQXBnG3S1A2sWPsWMG4jvVmYx0Mm00tE&usqp=CAU"  />
 
 ###
 
 <img align="left" height="150" src="https://m.media-amazon.com/images/I/81BeFjzgaTL._AC_UF894,1000_QL80_.jpg"  />
-
-###
-
-<img align="left" height="150" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSueHUO3EPI6GeVIiNaGnoptSyOB7gLHv1kTQ&s"  />
-
-###
-
-<img align="left" height="150" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8izU3u72lfo5a-rAIsVNR6WoMDPrnlH_L3Q&s"  />
-
-###
-
-<img align="left" height="150" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTunoY4pVfbLEhpkcZlF2xngCdyVq_EUBnzKA&s"  />
 
 ###
