@@ -66,7 +66,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media.tenor.com/hVRhFeDFW6oAAAAi/anime-wave.gif"  />
+<img align="right" height="120" src="https://media.tenor.com/hVRhFeDFW6oAAAAi/anime-wave.gif"  />
 
 ###
 
