@@ -70,17 +70,11 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://open.spotify.com/user/0gc9t4po3sdbakcdpcvplyb7s">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=0gc9t4po3sdbakcdpcvplyb7s&count=1&unique=true" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=0gc9t4po3sdbakcdpcvplyb7s&count=1&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/dwincahya/dwincahya/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -92,7 +86,7 @@
 
 <br clear="both">
 
-<img align="right" height="57" src="https://i.pinimg.com/originals/91/ea/dd/91eadd0f3668da5d416bf84179cee2e7.gif"  />
+<img align="right" height="10" src="https://i.pinimg.com/originals/91/ea/dd/91eadd0f3668da5d416bf84179cee2e7.gif"  />
 
 ###
 
