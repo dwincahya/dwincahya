@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm DWI NUR CAHYA</h1>
 <h3 align="center">A Newbie Programming</h3>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dwincahya" alt="dwincahya" /></a> </p>
+
 - 🔭 I’m currently school on **SMK NEGERI 2 YOGYAKARTA**
 
 - 🌱 I’m currently learning **Front End**
@@ -9,7 +11,7 @@
 
 - 📫 **dwincahya8@gmail.com**
 
-- ⚡ Fun fact **I am weebs**
+- ⚡ **I am weebs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,3 +25,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dwincahya&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en&layout=compact" alt="dwincahya" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dwincahya&show_icons=true&locale=en" alt="dwincahya" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dwincahya&" alt="dwincahya" /></p>
