@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋! My name is DWI NUR CAHYA <br>I'm a Newbie Programmer</h1>
+<h1 align="center">Hi 👋! Iam DWI NUR CAHYA <br>I'm a Newbie Programmer</h1>
 
 ###
 
