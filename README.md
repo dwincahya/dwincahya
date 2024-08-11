@@ -68,16 +68,6 @@
 
 <br clear="both">
 
-<div align="center">
-  <a href="https://open.spotify.com/user/0gc9t4po3sdbakcdpcvplyb7s">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=0gc9t4po3sdbakcdpcvplyb7s&count=3&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
-<br clear="both">
-
 <h2 align="left">Favorite Anime</h2>
 
 ###
@@ -106,10 +96,12 @@
 
 ###
 
-<img align="left" height="150" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRtEVTx8vi6XZhEMOJfoNOyFAqRXyHETc4ccuMQXBnG3S1A2sWPsWMG4jvVmYx0Mm00tE&usqp=CAU"  />
+<img align="left" height="150" src="https://m.media-amazon.com/images/I/81BeFjzgaTL._AC_UF894,1000_QL80_.jpg"  />
 
 ###
 
-<img align="left" height="150" src="https://m.media-amazon.com/images/I/81BeFjzgaTL._AC_UF894,1000_QL80_.jpg"  />
+<br clear="both">
+
+<h2 align="left">Favorite Characters</h2>
 
 ###
