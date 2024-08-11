@@ -66,13 +66,11 @@
 
 ###
 
-<img align="right" height="120" src="https://media.tenor.com/hVRhFeDFW6oAAAAi/anime-wave.gif"  />
+<br clear="both">
 
-###
-
-<div align="left">
+<div align="center">
   <a href="https://open.spotify.com/user/0gc9t4po3sdbakcdpcvplyb7s">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=0gc9t4po3sdbakcdpcvplyb7s&count=1&unique=false" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=0gc9t4po3sdbakcdpcvplyb7s&count=3&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
 
