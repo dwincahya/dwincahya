@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋! Im DWI NUR CAHYA <br> A Informatic Engineering</h1>
+<h1 align="center">Hi 👋! Im DWI NUR CAHYA <br> Informatic Engineering</h1>
 
 ###
 
