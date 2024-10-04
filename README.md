@@ -88,10 +88,6 @@
 
 <img align="left" height="150" src="https://m.media-amazon.com/images/I/81BeFjzgaTL._AC_UF894,1000_QL80_.jpg"  />
 
-###
-
-<br clear="both">
-
 
 
 <br clear="both">
