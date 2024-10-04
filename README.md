@@ -92,53 +92,7 @@
 
 <br clear="both">
 
-<h2 align="left">Favorite Characters</h2>
 
-###
-
-<img align="left" height="100" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5q1svwnrufrIZ6t3ywYa4Ynyv3zIYKzHBFA&s"  />
-
-###
-
-<img align="left" height="100" src="https://upload-os-bbs.hoyolab.com/upload/2024/03/09/241468695/2b73f4629ed939c344349357b8480ad4_3819473940135336685.jpg?x-oss-process=image%2Fresize%2Cs_1000%2Fauto-orient%2C0%2Finterlace%2C1%2Fformat%2Cwebp%2Fquality%2Cq_70"  />
-
-###
-
-<img align="left" height="100" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5Kb5Vscmkb7fI3A2L_x4kTMjRsLpa9BhtvA&s"  />
-
-###
-
-<img align="left" height="100" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwQaMI8KeJQpfu6OPxNBTC0w7Q_qtoIHN6oA&s"  />
-
-###
-
-<img align="left" height="100" src="https://i.pinimg.com/736x/00/be/7f/00be7f5995c6149393bc4622f055a2c6.jpg"  />
-
-###
-
-<img align="left" height="100" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCWfamWhPX1VdeZBJSIR_WdRPx7I5uGhJ6-w&s"  />
-
-###
-
-<img align="left" height="100" src="https://i.pinimg.com/736x/bb/1d/43/bb1d434ebf2d05791455f95aacf5c3aa.jpg"  />
-
-###
-
-<br clear="both">
-
-<h2 align="center">RECENTLY MUSIC</h2>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <a href="https://open.spotify.com/user/0gc9t4po3sdbakcdpcvplyb7s">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=0gc9t4po3sdbakcdpcvplyb7s&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
 
 <br clear="both">
 
