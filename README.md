@@ -1,41 +1,6 @@
-<h1 align="center">
-  <span id="animated-text" style="color: grey;"></span>
-</h1>
+<h1 align="center">Dwi Nur Cahya || Web Developer</h1>
 
-<script>
-  // JavaScript code for text animation
-  const textArray = ["Dwi Nur Cahya", "Web Developer", "Software Engineer"];
-  let currentIndex = 0;
-  let letterIndex = 0;
-  const typingSpeed = 100;  // Typing speed in milliseconds
-  const pauseBetween = 2000;  // Pause between texts in milliseconds
-  const element = document.getElementById("animated-text");
-
-  function typeEffect() {
-    if (letterIndex < textArray[currentIndex].length) {
-      element.innerHTML += textArray[currentIndex].charAt(letterIndex);
-      letterIndex++;
-      setTimeout(typeEffect, typingSpeed);
-    } else {
-      setTimeout(eraseEffect, pauseBetween);
-    }
-  }
-
-  function eraseEffect() {
-    if (letterIndex > 0) {
-      element.innerHTML = textArray[currentIndex].substring(0, letterIndex - 1);
-      letterIndex--;
-      setTimeout(eraseEffect, typingSpeed);
-    } else {
-      currentIndex = (currentIndex + 1) % textArray.length;
-      setTimeout(typeEffect, typingSpeed);
-    }
-  }
-
-  document.addEventListener("DOMContentLoaded", typeEffect);
-</script>
-
-### Stats Section
+###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dwincahya&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -43,9 +8,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dwincahya&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-### Tech Skills
+###
 
 <img align="right" height="130" src="https://media.tenor.com/BHaRmO7b-bMAAAAj/hsr-honkai-star-rail.gif"  />
+
+###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
@@ -67,7 +34,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="laravel logo"  />
 </div>
 
-### Social Links
+###
 
 <div align="left">
   <a href="https://www.instagram.com/dwiccah/" target="_blank">
@@ -81,8 +48,10 @@
   </a>
 </div>
 
+###
+
 <br clear="both">
 
-### Snake Animation
-
 <img src="https://raw.githubusercontent.com/dwincahya/dwincahya/output/snake.svg" alt="Snake animation" />
+
+###
