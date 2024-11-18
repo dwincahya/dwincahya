@@ -1,5 +1,5 @@
 # 💫 About Me:
-Im Dwi Nur Cahya<br>Web Developer || Software Engineer
+Im Dwi Nur Cahya<br>Web Developer || Software Engineer<br>
 <img height="130" src="https://media.tenor.com/BHaRmO7b-bMAAAAj/hsr-honkai-star-rail.gif"  />
 
 ## 🌐 Socials:
