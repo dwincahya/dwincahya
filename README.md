@@ -1,6 +1,6 @@
 # 💫 About Me:
 Im Dwi Nur Cahya<br>Web Developer || Software Engineer
-
+<img height="130" src="https://media.tenor.com/BHaRmO7b-bMAAAAj/hsr-honkai-star-rail.gif"  />
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dwiccah) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dwiccah) 
@@ -15,4 +15,4 @@ Im Dwi Nur Cahya<br>Web Developer || Software Engineer
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="https://raw.githubusercontent.com/dwincahya/dwincahya/output/snake.svg" alt="Snake animation" />
