@@ -32,3 +32,10 @@ I'm Dwi Nur Cahya<br>Web Developer || Software Engineer<br>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent)
 
 <img src="https://raw.githubusercontent.com/dwincahya/dwincahya/output/snake.svg" alt="Snake animation" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dwincahya/dwincahya/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dwincahya/dwincahya/output/snake-light.svg">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/dwincahya/dwincahya/output/snake-light.svg">
+</picture>
+
