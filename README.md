@@ -1,12 +1,12 @@
-# 💫 About Me:
+# 💫 About Me :
 I'm Dwi Nur Cahya<br>Web Developer || Software Engineer<br>
 <img height="130" src="https://media.tenor.com/BHaRmO7b-bMAAAAj/hsr-honkai-star-rail.gif" alt="Honkai Star Rail GIF" />
 
-## 🌐 Socials:
+## 🌐 Socials :
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dwiccah) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dwiccah) 
 
-# 💻 Tech Stack:
+# 💻 Tech Stack :
 ![Python](https://img.shields.io/badge/python-%233367A0?style=for-the-badge&logo=python&logoColor=%23FFD54F) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white) 
 ![React](https://img.shields.io/badge/react-%2320232a?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
@@ -23,7 +23,7 @@ I'm Dwi Nur Cahya<br>Web Developer || Software Engineer<br>
 ![Next JS](https://img.shields.io/badge/Next-%23000000?style=for-the-badge&logo=next.js&logoColor=white) 
 ![Apache](https://img.shields.io/badge/apache-%23D42029?style=for-the-badge&logo=apache&logoColor=white) 
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=dwincahya&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dwincahya&theme=transparent&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dwincahya&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
