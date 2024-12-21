@@ -1,6 +1,6 @@
 # 💫 About Me :
-Dwi Nur Cahya<br>Web Developer || Software Engineer<br>
-<img height="130" src="https://media.tenor.com/BHaRmO7b-bMAAAAj/hsr-honkai-star-rail.gif" alt="Honkai Star Rail GIF" />
+I'm Dwi Nur Cahya<br>Web Developer || Software Engineer<br>
+<img height="130" src="https://media.tenor.com/BHaRmO7b-bMAAAAj/hsr-honkai-star-rail.gif" alt="Firefly GIF" />
 
 ## 🌐 Socials :
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dwiccah) 
