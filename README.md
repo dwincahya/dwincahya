@@ -1,6 +1,6 @@
 # 🚀 Dwi Nur Cahya — Web Developer | Software Engineer  
 
-<img width="100%" src="[https://media.tenor.com/BHaRmO7b-bMAAAAj/hsr-honkai-star-rail.gif](https://media.giphy.com/media/l3vRfp3dlLgkeWBqg/giphy.gif?cid=790b761119bldnce8q0gk4fcyg4us8vbjn6vo1ax7861w5bg&ep=v1_gifs_search&rid=giphy.gif&ct=g)" alt="BG GIF" />
+<img width="100%" src="https://media.giphy.com/media/l3vRfp3dlLgkeWBqg/giphy.gif?cid=790b761119bldnce8q0gk4fcyg4us8vbjn6vo1ax7861w5bg&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="BG GIF" />
 
 ---
 
@@ -31,13 +31,6 @@
   <img src="https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-%23F05033?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-%23000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</p>
-
----
-
-## 🏆 GitHub Trophies  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dwincahya&theme=onedark&margin-w=15&margin-h=15" />
 </p>
 
 ---
