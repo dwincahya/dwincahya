@@ -1,6 +1,6 @@
 # 🚀 Dwi Nur Cahya — Web Developer | Software Engineer  
 
-<img width="100%" src="https://media.tenor.com/BHaRmO7b-bMAAAAj/hsr-honkai-star-rail.gif" alt="Firefly GIF" />
+<img width="100%" src="[https://media.tenor.com/BHaRmO7b-bMAAAAj/hsr-honkai-star-rail.gif](https://media.giphy.com/media/l3vRfp3dlLgkeWBqg/giphy.gif?cid=790b761119bldnce8q0gk4fcyg4us8vbjn6vo1ax7861w5bg&ep=v1_gifs_search&rid=giphy.gif&ct=g)" alt="BG GIF" />
 
 ---
 
@@ -9,6 +9,10 @@
   <a href="https://instagram.com/dwiccah"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://linkedin.com/in/dwiccah"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dwincahya&label=Visitors&color=0e75b6&style=flat" alt="Visitors" />
 </p>
 
 ---
@@ -31,6 +35,13 @@
 
 ---
 
+## 🏆 GitHub Trophies  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dwincahya&theme=onedark&margin-w=15&margin-h=15" />
+</p>
+
+---
+
 ## 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dwincahya&theme=transparent&hide_border=false&include_all_commits=false&count_private=false" height="150"/>
@@ -47,9 +58,16 @@
 
 ---
 
-## 🎵 Now Playing  
+## 🎵 Now Playing on Spotify  
 <p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=YOUR_SPOTIFY_USERNAME&unique=true" alt="Spotify Now Playing" />
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=0gc9t4po3sdbakcdpcvplyb7s&unique=true" alt="Spotify Now Playing" />
+</p>
+
+---
+
+## 🤔 Did You Know?  
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes for fun!" />
 </p>
 
 ---
@@ -58,3 +76,9 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/dwincahya/dwincahya/output/snake.svg" alt="Snake animation" />
 </p>
+
+---
+
+## 🔥 Fun Fact  
+
+🎸 **Hobbies**: Coding, Gaming, and Music
