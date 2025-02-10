@@ -1,6 +1,6 @@
 # 🚀 Dwi Nur Cahya — Web Developer | Software Engineer  
 
-<img width="100%" src="https://media.giphy.com/media/l3vRfp3dlLgkeWBqg/giphy.gif?cid=790b761119bldnce8q0gk4fcyg4us8vbjn6vo1ax7861w5bg&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="BG GIF" />
+<img width="100%" src="https://steamuserimages-a.akamaihd.net/ugc/2049736193954814891/C4B9E01EBF881FB0C4C5D909E9D1E5BFB9DF8182/?imw=1024&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="BG GIF" />
 
 ---
 
