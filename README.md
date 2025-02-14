@@ -1,6 +1,6 @@
 # 🚀 Dwi Nur Cahya — Web Developer | Software Engineer  
 
-<img width="100%" src="https://steamuserimages-a.akamaihd.net/ugc/2049736193954814891/C4B9E01EBF881FB0C4C5D909E9D1E5BFB9DF8182/?imw=1024&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="BG GIF" />
+<img width="100%" src="https://media1.tenor.com/m/JKpw7pszaqsAAAAd/tendou-alice-blue-archive.gif" alt="BG GIF" />
 
 ---
 
