@@ -1,6 +1,6 @@
 #  Dwi Nur Cahya — Web Developer | Software Engineer  
 
-<img width="100%" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnFjbGVlNDFpdzEyZzc1a3Fva216Zzk4emt0MzBmYXhocnJjdmd2dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVGsAWjzvXcZW4ZBTE/giphy.gif" alt="BG GIF" />
+<img width="100%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXB1NjNscGJ3Zm5kd3ltZXBxcXcwNnpoeDUzdDkyaGc4dnl2MHM1NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/N3yLGQ1oMYfGU/giphy.gif" alt="BG GIF" />
 
 ---
 
