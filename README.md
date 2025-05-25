@@ -1,4 +1,4 @@
-# 🚀 Dwi Nur Cahya — Web Developer | Software Engineer  
+#  Dwi Nur Cahya — Web Developer | Software Engineer  
 
 <img width="100%" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnFjbGVlNDFpdzEyZzc1a3Fva216Zzk4emt0MzBmYXhocnJjdmd2dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVGsAWjzvXcZW4ZBTE/giphy.gif" alt="BG GIF" />
 
@@ -51,12 +51,6 @@
 
 ---
 
-## 🎵 Now Playing on Spotify  
-<p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=0gc9t4po3sdbakcdpcvplyb7s&unique=true" alt="Spotify Now Playing" />
-</p>
-
----
 
 ## 🤔 Did You Know?  
 <p align="center">
