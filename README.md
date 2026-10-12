@@ -1,6 +1,6 @@
 #  Dwi Nur Cahya — Web Developer | Software Engineer  
 
-<img width="100%" src="[https://i.pinimg.com/originals/ca/8e/01/ca8e01f8df44632251dd70d52ffefb34.gif](https://media1.tenor.com/m/mgxyxqC7KJ4AAAAd/honkai-star-rail-firefly-honkai.gif)" alt="BG GIF" />
+<img width="100%" src="https://c.tenor.com/mgxyxqC7KJ4AAAAd/tenor.gif" alt="BG GIF" />
 
 ---
 
